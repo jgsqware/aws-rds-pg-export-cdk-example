@@ -1,0 +1,7 @@
+{
+  "@nrbdigital/generator-alfred": {
+    "promptValues": {
+      "project_name": "fednotNotalyticsIAC"
+    }
+  }
+}
